@@ -7,7 +7,7 @@ module.exports = {
     },
     extend: {
       backgroundImage:{
-        "home": "url('C:\Users\GEAN\Desktop\html\assets\bg.png')"
+        "home": "url('assets/bg.png')"
       }
     },
   },
